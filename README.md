@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-cd Voice-Studio
+cd voicestudio
 python app.py
 ```
 
