@@ -49,7 +49,7 @@ pkg install termux-api -y
 pkg install git -y
 
 # 3. Clone the project
-git clone https://github.com/YOUR_USERNAME/Voice-Studio.git
+git clone https://github.com/hearthackerBabar/voicestudio
 cd Voice-Studio
 
 # 4. Install Python dependencies
